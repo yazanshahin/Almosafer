@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="10" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-06T19:24:19 EET" name="Default suite" finished-at="2025-05-06T19:24:44 EET" duration-ms="24996">
+    <groups>
+    </groups>
+    <test started-at="2025-05-06T19:24:19 EET" name="Default test" finished-at="2025-05-06T19:24:44 EET" duration-ms="24996">
+      <class name="almosafer.MyTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:almosafer.MyTestCases@20b12f8a]" started-at="2025-05-06T19:24:19 EET" name="mySetup" finished-at="2025-05-06T19:24:21 EET" duration-ms="2057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="hotelSearch()[pri:10, instance:almosafer.MyTestCases@20b12f8a]" started-at="2025-05-06T19:24:21 EET" name="hotelSearch" finished-at="2025-05-06T19:24:32 EET" duration-ms="10861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelSearch -->
+        <test-method signature="PageFullyLoaded()[pri:11, instance:almosafer.MyTestCases@20b12f8a]" started-at="2025-05-06T19:24:32 EET" name="PageFullyLoaded" finished-at="2025-05-06T19:24:44 EET" duration-ms="12023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageFullyLoaded -->
+      </class> <!-- almosafer.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
